@@ -9,6 +9,6 @@ spring:
       server:
         git:
           uri: https://github.com/yangoctopus/springcloud.git  # git地址
-          username: xxxxx  # git登录用户名
-          password: xxxxx  # git登录密码
+          username: yangoctopus  # git登录用户名
+          password: yang1990  # git登录密码
           search-paths: config/resp # 配置文件所在路径 先写成这样，我们等下新建出来
