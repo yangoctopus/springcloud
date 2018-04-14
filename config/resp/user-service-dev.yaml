@@ -1,3 +1,4 @@
+<<<<<<< HEAD:config/resp/user-service-dev.yaml
 server:
   port: 8888
 spring:
@@ -13,3 +14,6 @@ spring:
           password: yang1990  # git登录密码
           search-paths: config/resp # 配置文件所在路径 先写成这样，我们等下新建出来
           strict-host-key-checking: false
+=======
+name:yzy hello!
+>>>>>>> ec3ced5a37707da506a4fa78c2d9dd165aef5d7d:config/resp/user-service-dev.application
