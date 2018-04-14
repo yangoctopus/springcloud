@@ -1,14 +1,1 @@
-server:
-  port: 8888
-spring:
-  application:
-    name: config-server
-  cloud:
-    config:
-      label: master   #git master 分支
-      server:
-        git:
-          uri: https://github.com/yangoctopus/springcloud.git  # git地址
-          username: xxxxx  # git登录用户名
-          password: xxxxx  # git登录密码
-          search-paths: config/resp # 配置文件所在路径 先写成这样，我们等下新建出来
+name:yzy hello!
